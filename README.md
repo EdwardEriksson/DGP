@@ -1,4 +1,5 @@
 Repository for my honours project.
+Edward Eriksson at the University of Edinburgh.
 
 Bayesian optimization: self-explanatory
 DeepGaussianSamples: Sample a DGP prior
